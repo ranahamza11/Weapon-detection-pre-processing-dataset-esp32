@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Abdul Rehman\Documents\FYP-I\CP1Project\CP1Project\Source.cpp(1172,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abdul Rehman\Documents\FYP-I\CP1Project\CP1Project\Source.cpp(1172,58): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  CP1Project.vcxproj -> C:\Users\Abdul Rehman\Documents\FYP-I\CP1Project\Debug\CP1Project.exe
